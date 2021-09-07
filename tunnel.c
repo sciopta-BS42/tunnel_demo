@@ -18,6 +18,7 @@
 ** Simple GFX test process                                          **
 **********************************************************************
 EOC*/
+
 #include <sciopta.h>
 #include <math.h>
 #include <gfx/simple.h>
